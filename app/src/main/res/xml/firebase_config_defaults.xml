@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>welcome_message</key>
+        <value>Hello World!</value>
+    </entry>
+    <entry>
+        <key>app_supported</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>in_south_africa</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>feature_video_playback_enabled</key>
+        <value>true</value>
+    </entry>
+</defaultsMap>

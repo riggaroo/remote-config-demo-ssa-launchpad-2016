@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RemoteConfigDemo</string>
+    <string name="video_enabled">Video Enabled: %b</string>
+    <string name="in_south_africa">In South Africa: %b</string>
+    <string name="api_token">API Token: %s</string>
+    <string name="checkout">Checkout</string>
+    <string name="cart">Cart</string>
+    <string name="finished">Finished</string>
+</resources>
